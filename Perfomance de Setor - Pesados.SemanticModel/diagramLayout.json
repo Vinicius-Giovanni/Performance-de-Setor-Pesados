@@ -1,0 +1,100 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "fstatus_olpn_ed",
+          "nodeLineageTag": "d5b95a36-9ea9-4205-8812-79ed9e334dde",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 380,
+            "y": 0
+          },
+          "nodeIndex": "dHora_agora",
+          "nodeLineageTag": "4c499e8e-5660-49e7-9ea0-0c2ff8939f60",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 503,
+            "y": 211
+          },
+          "nodeIndex": "Medidas",
+          "nodeLineageTag": "396a8c15-cd50-4aa2-bf5b-b409acced365",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 852,
+            "y": 86
+          },
+          "nodeIndex": "dDemanda_pos",
+          "nodeLineageTag": "b24b0920-728c-4b39-a3f0-f11d28ab2633",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 861.96947800693738,
+            "y": 270.25945976380018
+          },
+          "nodeIndex": "fCarteira",
+          "nodeLineageTag": "0e0d3cf8-f2ab-4113-87ee-b26154d6b35a",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 1078.0903578802158,
+            "y": 0
+          },
+          "nodeIndex": "dTabela_expedicoes",
+          "nodeLineageTag": "1b27ffe0-3107-4d0a-9268-a09bbe3da722",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "Todas as tabelas",
+      "zoomValue": 79.553182037699813,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas as tabelas",
+  "defaultDiagram": "Todas as tabelas"
+}
